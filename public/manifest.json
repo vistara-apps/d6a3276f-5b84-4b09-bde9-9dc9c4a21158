@@ -1,0 +1,14 @@
+{
+  "name": "AI Art Provenance & Rights",
+  "description": "AI Art Provenance & Rights is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://d6a3276f-5b84-4b09-bde9-9dc9c4a21158.vercel.app",
+  "properties": {
+    "app": {
+      "name": "AI Art Provenance & Rights",
+      "description": "AI Art Provenance & Rights is a Base Mini App built with Zara.",
+      "url": "https://d6a3276f-5b84-4b09-bde9-9dc9c4a21158.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

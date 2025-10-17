@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "AI Art Provenance & Rights",
-    "homeUrl": "https://aiart.baseapp",
+    "homeUrl": "https://app-c4a21158-mze8.vercel.app",
     "iconUrl": "https://aiart.baseapp/icon.png",
     "splashImageUrl": "https://aiart.baseapp/splash.png",
     "splashBackgroundColor": "#0f1419",
-    "webhookUrl": "https://aiart.baseapp/api/farcaster/webhook",
+    "webhookUrl": "https://app-c4a21158-mze8.vercel.app/api/webhook",
     "subtitle": "Verify & Control Your AI Art",
     "description": "Create immutable provenance records for AI-generated art and manage usage rights with dynamic NFTs on Base blockchain.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://aiart.baseapp/screenshot3.png"
     ],
     "primaryCategory": "art",
-    "tags": ["ai-art", "nft", "provenance", "rights-management", "base"],
+    "tags": [
+      "ai-art",
+      "nft",
+      "provenance",
+      "rights-management",
+      "base"
+    ],
     "heroImageUrl": "https://aiart.baseapp/hero.png",
     "tagline": "Immutable AI Art Provenance",
     "ogTitle": "AI Art Provenance & Rights",
